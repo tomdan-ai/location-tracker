@@ -58,8 +58,8 @@ Finder is perfect for:
 
 Provide instructions on how to install and set up the project locally.
 
-1. Clone the repository: `git clone <repository-url>`
-2. Navigate to the project directory: `cd <project-directory>`
+1. Clone the repository: `git clone https://github.com/tomdan-ai/location-tracker`
+2. Navigate to the project directory: `cd location-tracker`
 3. Install dependencies: `npm install`
 
 ## Usage
