@@ -69,6 +69,7 @@ Provide instructions on how to use the application.
 1. Start the backend server: `npm start` (or any other relevant command)
 2. Start the frontend development server: `npm start` (or any other relevant command)
 3. Access the application in your web browser at `http://localhost:3000`
+4. Start Backend Server at `http://localhost:5000`
 
 ## Contributing
 
